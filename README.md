@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I’m Adarsh 👋
 
 I’m a **Junior Python Developer** with a strong interest in machine learning and AI.  
