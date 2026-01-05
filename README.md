@@ -1,15 +1,37 @@
 
 # Hi, I’m Adarsh 👋
 
-I’m a **Junior Python Developer** with a strong interest in machine learning and AI.  
-I enjoy building practical Python applications — from automation scripts and data analysis to ML and computer vision projects.
+## Automation Engineer | PLC • SCADA • Python • Industry 4.0
 
-## 🔧 Tech Stack
+Automation Engineer with hands-on project experience in:
+
+- PLC-style motor control & safety interlocks
+- Python-based industrial monitoring, alarms, and logging
+- SCADA dashboards using MQTT & Node-RED
+- Predictive maintenance and fault detection (ML)
+
+I focus on **practical industrial automation**, using software and AI
+only where it adds real operational value.
+
+### 🛠️ Technical Skills
+- PLC logic (start/stop, E-Stop, fault latching)
+- Python for industrial monitoring
+- MQTT, Node-RED, SCADA concepts
+- Predictive maintenance (Scikit-learn)
+- OpenCV for visual inspection
+- Git, Docker (basic)
 - **Languages:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
 - **Computer Vision:** OpenCV, YOLO (ONNX)
 - **Deployment & Tools:** ONNX, ONNX Runtime, Git, Linux/macOS
 
+### 🔧 Core Projects
+- PLC Motor Control + Safety Interlocks
+- Python Industrial Monitoring System
+- Mini SCADA Dashboard (MQTT + Node-RED)
+- AI Fault Detection / Predictive Maintenance
+- Computer Vision for Industrial Inspection
+- 
 ## 📌 Featured Projects
 ### 🔹 Edge AI Optimization
 - Trained a CNN and exported it to ONNX
